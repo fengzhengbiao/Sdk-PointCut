@@ -1,5 +1,5 @@
-# Sdk-PointCut
-#Aop for android
+#   Sdk-PointCut  
+#  Aop for android  
 1.ClickTrigger  
  适用范围：需要防止重复点击的onItemClick和onItemClick方法上，并且方法参数中的第一个view是点击的view  
  使用方法：  
